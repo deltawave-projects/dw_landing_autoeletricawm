@@ -5,12 +5,12 @@ export default function About() {
   return (
     <section id="sobre" className="bg-white py-16 sm:py-24">
       <div className="mx-auto grid max-w-6xl grid-cols-1 items-center gap-10 px-6 lg:grid-cols-2 lg:gap-16">
-        <div className="relative order-2 aspect-[4/5] w-full max-w-sm overflow-hidden rounded-2xl bg-surface lg:order-1">
+        <div className="relative order-2 aspect-[4/2] w-full overflow-hidden rounded-2xl bg-surface lg:order-1">
           <Image
             src={site.sobre.foto.src}
             alt={site.sobre.foto.alt}
             fill
-            sizes="(max-width: 1024px) 90vw, 40vw"
+            sizes="(max-width: 1024px) 90vw, 50vw"
             className="object-cover"
             loading="lazy"
           />

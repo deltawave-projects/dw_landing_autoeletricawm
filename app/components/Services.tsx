@@ -29,9 +29,6 @@ export default function Services() {
                 <p className="mt-2 flex-1 text-sm text-muted">
                   {servico.descricao}
                 </p>
-                <p className="mt-4 text-sm font-semibold text-brand-red">
-                  {servico.preco}
-                </p>
               </div>
             );
           })}

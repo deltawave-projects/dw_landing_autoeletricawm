@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Foto placeholder">
-  <rect width="800" height="600" fill="#e7e7e7"/>
-  <rect x="1" y="1" width="798" height="598" fill="none" stroke="#cccccc" stroke-width="2" stroke-dasharray="10 8"/>
-  <g fill="#9a9a9a" font-family="Arial, sans-serif" text-anchor="middle">
-    <text x="400" y="290" font-size="38" font-weight="bold" fill="#d12027">WM Auto Elétrica</text>
-    <text x="400" y="335" font-size="26">Foto 1 — substituir</text>
-  </g>
-</svg>

@@ -45,45 +45,45 @@ export const site = {
       icone: "battery",
       nome: "Baterias e sistema de carga",
       descricao: "Teste, troca e diagnóstico de bateria, alternador e regulador.",
-      preco: "a partir de R$ 00",
+      preco: "R$ 00",
     },
     {
-      icone: "diagnostics",
-      nome: "Diagnóstico eletrônico",
-      descricao: "Leitura de injeção e módulos com scanner automotivo.",
-      preco: "a partir de R$ 00",
+      icone: "ac",
+      nome: "Ar condicionado",
+      descricao: "Higienização, recarga de gás e reparo do ar condicionado automotivo.",
+      preco: "R$ 00",
     },
     {
       icone: "lightbulb",
       nome: "Iluminação e faróis",
       descricao: "Faróis, lanternas, setas e regulagem de luz.",
-      preco: "a partir de R$ 00",
+      preco: "R$ 00",
     },
     {
       icone: "starter",
       nome: "Motor de partida",
       descricao: "Reparo e troca do motor de arranque.",
-      preco: "a partir de R$ 00",
+      preco: "R$ 00",
     },
     {
       icone: "wiring",
       nome: "Chicotes e fiação",
       descricao: "Reparo de curto, mau contato e instalação elétrica.",
-      preco: "a partir de R$ 00",
+      preco: "R$ 00",
     },
     {
-      icone: "accessories",
-      nome: "Acessórios e instalações",
-      descricao: "Som, alarme, trava elétrica, vidro elétrico e mais.",
-      preco: "a partir de R$ 00",
+      icone: "tractor",
+      nome: "Linha agrícola",
+      descricao: "Serviços elétricos e de ar condicionado para máquinas agrícolas.",
+      preco: "R$ 00",
     },
   ],
 
   // --- Galeria --- (imagens em public/gallery/)
   // Substitua os placeholders por fotos reais da oficina e dos serviços.
   galeria: [
-    { src: "/gallery/placeholder-1.svg", alt: "Foto da oficina WM Auto Elétrica" },
-    { src: "/gallery/placeholder-2.svg", alt: "Serviço de elétrica automotiva" },
+    { src: "/gallery/galeria-1.jpg", alt: "Foto de serviço automotivo" },
+    { src: "/gallery/galeria-2.jpg", alt: "Imagem de bateria Heliar" },
     { src: "/gallery/placeholder-3.svg", alt: "Diagnóstico eletrônico" },
     { src: "/gallery/placeholder-4.svg", alt: "Reparo de bateria" },
     { src: "/gallery/placeholder-5.svg", alt: "Detalhe do atendimento" },
@@ -97,7 +97,7 @@ export const site = {
       "A WM Auto Elétrica nasceu do trabalho e da dedicação de uma família apaixonada por carros. Ao longo dos anos, construímos nossa reputação em Horizontina no jeito mais antigo e verdadeiro: pela indicação de cliente para cliente.",
       "Atendemos cada veículo com a atenção que daríamos ao nosso próprio. Diagnóstico honesto, serviço bem feito e preço justo — é assim que tratamos quem confia na gente.",
     ],
-    foto: { src: "/gallery/placeholder-dono.svg", alt: "Proprietário da WM Auto Elétrica" },
+    foto: { src: "/gallery/imagem-fachada.jpg", alt: "Fachada da WM Auto Elétrica" },
   },
 
   // --- Rodapé ---
