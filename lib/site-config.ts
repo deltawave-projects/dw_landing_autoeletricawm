@@ -102,7 +102,7 @@ export const site = {
 
   // --- Rodapé ---
   empresa: "DeltaWave",
-  empresaUrl: "", // opcional
+  empresaUrl: "https://deltawave.dev", // opcional
 
   // --- SEO ---
   // Domínio final do site (usado em metadados e sitemap). [PREENCHER no deploy]
